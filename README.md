@@ -12,7 +12,7 @@ A major reason for using paid/hosted services is syncronization uniformity. EnvS
 
 ## Logic
 I. We assume GitHub contains the latest Env. <br>
-II. We backup before updating our env in case assumption 1 is incorrect. <br>
+II. We backup before updating our env in case assumption I. is incorrect. <br>
 III. We can always go back and track changes in our environments.
 
 ## Compatibility
